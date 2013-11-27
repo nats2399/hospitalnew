@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nombres: MyString
+  apellidos: MyString
+  celuar: MyString
+  emal: MyString
+  curriculum: MyText
+  reconocimiento: MyString
+  imagen: MyString
+  especialidad_id: 
+
+two:
+  nombres: MyString
+  apellidos: MyString
+  celuar: MyString
+  emal: MyString
+  curriculum: MyText
+  reconocimiento: MyString
+  imagen: MyString
+  especialidad_id: 
